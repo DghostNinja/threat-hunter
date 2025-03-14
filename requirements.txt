@@ -4,3 +4,4 @@ sqlite3
 jinja2
 requests
 beautifulsoup4
+asyncpg
